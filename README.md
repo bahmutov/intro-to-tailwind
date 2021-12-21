@@ -34,3 +34,11 @@ Added avatar, paragraphs, hover background
 ![Step 2](./images/step2.png)
 
 Check out tag "step-2"
+
+### Step3
+
+Added flex layout
+
+![Step 3 layout](./images/step3.png)
+
+Check out tag "step-3"

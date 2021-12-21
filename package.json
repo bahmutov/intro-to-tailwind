@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm-run-all --parallel 'watch:*'",
-    "watch:start": "parcel serve src/index.html",
+    "watch:start": "parcel serve src/layout.html",
     "watch:css": "tailwindcss -i src/style.css -o src/assets/out.css -w"
   },
   "keywords": [],
